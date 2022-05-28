@@ -5,7 +5,7 @@ public class Main {
         System.out.println();
         System.out.println("Калькулятор Индекса Массы Тела");
         System.out.println();
-        double bmi = bodyMassIndex.calculate(200, 50);  //   Рост   и Вес
+        double bmi = bodyMassIndex.calculate(190, 75);  //   Рост   и Вес
         System.out.println("ИМТ равен: " + bmi);
 
     }
